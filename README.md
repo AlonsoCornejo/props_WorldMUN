@@ -1,1 +1,2 @@
-# props_WorldMUN
+# Harvard WorldMUN Props
+## OPENED EXTENSION DATABASE
